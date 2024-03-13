@@ -16,6 +16,7 @@ h2 {
 
 p {
   text-align: left;
+  font-size:larger;
 }
 
 .content{
@@ -23,3 +24,8 @@ p {
   margin-right: auto;
   width: auto;
 }
+
+li {
+  font-size: large;
+}
+
