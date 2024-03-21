@@ -1,0 +1,26 @@
+p {
+    font-size: 140%;
+    text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+    font-size: 200%;
+    text-align: center;
+}
+
+.img1{
+    filter:grayscale(200%);
+    
+  }
+
+.img2{
+    filter:brightness(150%);
+  }
+
+.img3{
+    filter:saturate(200%);
+  }
