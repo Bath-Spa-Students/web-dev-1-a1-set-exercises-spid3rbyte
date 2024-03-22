@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 700%;
+    text-align: center;
+    color: #FFFFFF;
+    background-color:#17072b;
+}
+
+/*nav bar background*/
+.wrapper {
+    background-color: #17072b;
+}
+
+
+.navbar {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+    background-color: #17072b;
+    color:#FFFFFF;
+    text-align: center;
+    font-size: 400%;
+    padding-right: 10px; 
+    word-spacing: 70px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 400%;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 700%;
+}
+
+/* for the line up section */
+.wrapper2 {
+    background-color: #172d67;
+    color:#FFFFFF;
+    text-align: left;
+    /* to help position the wrapper on the right side of the page */
+    float: right;
+    /* helps with spacing the nav bar + wrapper  */
+    margin-top:70 px;
+}
+
+footer{
+    background-color: #8c15e9;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 400%;
+    text-align: center;
+} 
