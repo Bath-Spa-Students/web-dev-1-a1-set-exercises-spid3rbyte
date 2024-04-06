@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 6 - Petrol Calculator</title>
+    <link rel = "stylesheet" href = "petrol.css">
+    <script src="petrol.js"></script>
+</head>
+
+<h1> <i> Petrol Calculator </i></h1>
+<body>
+    <!--  a div for petrol (i dont know what to name the div) -->
+    <div class = "cost">
+        <p> cost of petrol per liter </p>
+        <input id = "costofpetrol" type = "number" placeholder="1.72">
+    </div>
+    <div>
+        <p> liter </p>
+        <input id = "liters" type = "number" placeholder="1">
+    </div>
+    <!-- button that calculates total cost of petrol, displays output -->
+    <div>
+        <button id="calculatecostbtn"> total cost of petrol </button>
+        <button onclick = "calculate()"> total price</button>
+        <p> total cost: </p>
+
+        <!-- now displays the output -->
+        <p id = "totalcost"></p>
+    </div>
+</body>
+</html>
