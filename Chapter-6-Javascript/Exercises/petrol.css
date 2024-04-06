@@ -1,0 +1,17 @@
+calculatecostbtn {
+    background-color: pink;
+}
+
+h1 {
+    text-align: left;
+}
+
+p { 
+    text-align: left;
+}
+
+body {
+    background-color: rgb(233, 220, 222);
+    align-items: center;
+    justify-content: center;
+}
